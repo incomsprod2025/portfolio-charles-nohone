@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Portfolio Charles Nohone",
+  "description": "Portfolio professionnel de Charles Nohone - Social Media Manager, Infographe, Monteur Video et Webmaster.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
